@@ -1,0 +1,146 @@
+[
+  {
+    "skill": "teste-ad-hoc",
+    "file": "c:\\Users\\mario\\OneDrive\\Área de Trabalho\\projeto_tests_kit\\tests-kit\\.agent\\skills\\teste-ad-hoc\\SKILL.md",
+    "size_lines": 100,
+    "findings": [],
+    "risk_score": 0,
+    "verdict": "SEGURO"
+  },
+  {
+    "skill": "teste-de-aceitacao-do-usuario",
+    "file": "c:\\Users\\mario\\OneDrive\\Área de Trabalho\\projeto_tests_kit\\tests-kit\\.agent\\skills\\teste-de-aceitacao-do-usuario\\SKILL.md",
+    "size_lines": 104,
+    "findings": [],
+    "risk_score": 0,
+    "verdict": "SEGURO"
+  },
+  {
+    "skill": "teste-de-API",
+    "file": "c:\\Users\\mario\\OneDrive\\Área de Trabalho\\projeto_tests_kit\\tests-kit\\.agent\\skills\\teste-de-API\\SKILL.md",
+    "size_lines": 115,
+    "findings": [],
+    "risk_score": 0,
+    "verdict": "SEGURO"
+  },
+  {
+    "skill": "teste-de-caixa-branca",
+    "file": "c:\\Users\\mario\\OneDrive\\Área de Trabalho\\projeto_tests_kit\\tests-kit\\.agent\\skills\\teste-de-caixa-branca\\SKILL.md",
+    "size_lines": 121,
+    "findings": [],
+    "risk_score": 0,
+    "verdict": "SEGURO"
+  },
+  {
+    "skill": "teste-de-caixa-preta",
+    "file": "c:\\Users\\mario\\OneDrive\\Área de Trabalho\\projeto_tests_kit\\tests-kit\\.agent\\skills\\teste-de-caixa-preta\\SKILL.md",
+    "size_lines": 120,
+    "findings": [],
+    "risk_score": 0,
+    "verdict": "SEGURO"
+  },
+  {
+    "skill": "teste-de-carga",
+    "file": "c:\\Users\\mario\\OneDrive\\Área de Trabalho\\projeto_tests_kit\\tests-kit\\.agent\\skills\\teste-de-carga\\SKILL.md",
+    "size_lines": 102,
+    "findings": [],
+    "risk_score": 0,
+    "verdict": "SEGURO"
+  },
+  {
+    "skill": "teste-de-compatibilidade",
+    "file": "c:\\Users\\mario\\OneDrive\\Área de Trabalho\\projeto_tests_kit\\tests-kit\\.agent\\skills\\teste-de-compatibilidade\\SKILL.md",
+    "size_lines": 111,
+    "findings": [],
+    "risk_score": 0,
+    "verdict": "SEGURO"
+  },
+  {
+    "skill": "teste-de-desempenho",
+    "file": "c:\\Users\\mario\\OneDrive\\Área de Trabalho\\projeto_tests_kit\\tests-kit\\.agent\\skills\\teste-de-desempenho\\SKILL.md",
+    "size_lines": 112,
+    "findings": [],
+    "risk_score": 0,
+    "verdict": "SEGURO"
+  },
+  {
+    "skill": "teste-de-estresse",
+    "file": "c:\\Users\\mario\\OneDrive\\Área de Trabalho\\projeto_tests_kit\\tests-kit\\.agent\\skills\\teste-de-estresse\\SKILL.md",
+    "size_lines": 105,
+    "findings": [],
+    "risk_score": 0,
+    "verdict": "SEGURO"
+  },
+  {
+    "skill": "teste-de-fumaca",
+    "file": "c:\\Users\\mario\\OneDrive\\Área de Trabalho\\projeto_tests_kit\\tests-kit\\.agent\\skills\\teste-de-fumaca\\SKILL.md",
+    "size_lines": 100,
+    "findings": [],
+    "risk_score": 0,
+    "verdict": "SEGURO"
+  },
+  {
+    "skill": "teste-de-integracao",
+    "file": "c:\\Users\\mario\\OneDrive\\Área de Trabalho\\projeto_tests_kit\\tests-kit\\.agent\\skills\\teste-de-integracao\\SKILL.md",
+    "size_lines": 105,
+    "findings": [],
+    "risk_score": 0,
+    "verdict": "SEGURO"
+  },
+  {
+    "skill": "teste-de-recuperacao",
+    "file": "c:\\Users\\mario\\OneDrive\\Área de Trabalho\\projeto_tests_kit\\tests-kit\\.agent\\skills\\teste-de-recuperacao\\SKILL.md",
+    "size_lines": 99,
+    "findings": [],
+    "risk_score": 0,
+    "verdict": "SEGURO"
+  },
+  {
+    "skill": "teste-de-regressao",
+    "file": "c:\\Users\\mario\\OneDrive\\Área de Trabalho\\projeto_tests_kit\\tests-kit\\.agent\\skills\\teste-de-regressao\\SKILL.md",
+    "size_lines": 104,
+    "findings": [],
+    "risk_score": 0,
+    "verdict": "SEGURO"
+  },
+  {
+    "skill": "teste-de-sanidade",
+    "file": "c:\\Users\\mario\\OneDrive\\Área de Trabalho\\projeto_tests_kit\\tests-kit\\.agent\\skills\\teste-de-sanidade\\SKILL.md",
+    "size_lines": 92,
+    "findings": [],
+    "risk_score": 0,
+    "verdict": "SEGURO"
+  },
+  {
+    "skill": "teste-de-seguranca",
+    "file": "c:\\Users\\mario\\OneDrive\\Área de Trabalho\\projeto_tests_kit\\tests-kit\\.agent\\skills\\teste-de-seguranca\\SKILL.md",
+    "size_lines": 116,
+    "findings": [],
+    "risk_score": 0,
+    "verdict": "SEGURO"
+  },
+  {
+    "skill": "teste-de-sistema",
+    "file": "c:\\Users\\mario\\OneDrive\\Área de Trabalho\\projeto_tests_kit\\tests-kit\\.agent\\skills\\teste-de-sistema\\SKILL.md",
+    "size_lines": 101,
+    "findings": [],
+    "risk_score": 0,
+    "verdict": "SEGURO"
+  },
+  {
+    "skill": "teste-de-usabilidade",
+    "file": "c:\\Users\\mario\\OneDrive\\Área de Trabalho\\projeto_tests_kit\\tests-kit\\.agent\\skills\\teste-de-usabilidade\\SKILL.md",
+    "size_lines": 112,
+    "findings": [],
+    "risk_score": 0,
+    "verdict": "SEGURO"
+  },
+  {
+    "skill": "teste-exploratorio",
+    "file": "c:\\Users\\mario\\OneDrive\\Área de Trabalho\\projeto_tests_kit\\tests-kit\\.agent\\skills\\teste-exploratorio\\SKILL.md",
+    "size_lines": 104,
+    "findings": [],
+    "risk_score": 0,
+    "verdict": "SEGURO"
+  }
+]
