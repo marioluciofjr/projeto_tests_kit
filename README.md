@@ -98,9 +98,6 @@ tests-kit/
 | Não-Funcionais | `desempenho` · `carga` · `estresse` · `segurança` · `usabilidade` · `compatibilidade` |
 | Confiabilidade | `recuperação` |
 
-> [!IMPORTANT]
-> Want to better understand this repository, but you don't speak Portuguese? Check out this complete tutorial: [`Codebase - tests-kit`](https://codebase.google/projects/tests-kit)
-
 > [!NOTE]
 > A inspiração para o tests-kit foi o artigo técnico da IBM: [O que são testes de software?](https://www.ibm.com/br-pt/think/topics/software-testing) — de Stephanie Susnjara e Ian Smalley. Toda a taxonomia de testes (18 tipos organizados em 4 categorias) é derivada diretamente desta referência.
 
